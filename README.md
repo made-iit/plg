@@ -6,8 +6,8 @@ Further information is available at the [project page](https://made-iit.github.i
 ## System description
 
 This paper describes the design, fabrication and validation of a ``passive'' monolithic gripper made in AM, whose operation relies on a push-latch mechanism hereafter named Push-Latch Gripper (PLG).
-Push-latch mechanisms are commonly employed in different engineering fields (e.g. SD (\hl{\emph{Secure Digital}}) insertion/ejection slots, furniture closures, etc.). While several implementations have been documented in the scientific and patent literature, to the best of the author's knowledge, this work presents one of its first implementations in the design of robotic grippers.
-The PLG mode of operation is shown Fig.~\ref{fig:push-latch_scheme}: 
+Push-latch mechanisms are commonly employed in different engineering fields (e.g. SD cards insertion/ejection slots, furniture closures, etc.). While several implementations have been documented in the scientific and patent literature, to the best of the author's knowledge, this work presents one of its first implementations in the design of robotic grippers.
+The PLG mode of operation is shown Fig.![Force]: 
 1. the gripper first approaches the object to be grasped; 
 2. when the object and the base of the gripper are in contact, further pushing causes the compliant fingers to close; 
 3. once the desired threshold is reached, the gripper fingers lock in place; 
