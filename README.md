@@ -32,7 +32,7 @@ This design approach lends itself well to AM implementations and several example
 
 The PLG physical prototype is shown in the figure below, which also shows the indication and nomenclature of its main elements.
 
-<img src="/Images/whole_gripper.png" alt="Sequence" width="200" title="Employee Data title">
+<img src="/Images/whole_gripper.png" alt="Sequence" width="2000" title="Whole gripper">
 
 ![Sequence](/Images/whole_gripper.png | width=200)
 
