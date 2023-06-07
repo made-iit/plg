@@ -73,3 +73,6 @@ As the pin advances through its path, it reaches four principal positions, repre
 </p>
 
 Finally, the elasticity in the mechanism brings the pin back to the initial position where the fingers are completely open.
+At last, a spring connecting the slider and the chassis assists the motion of the pin as it advances through the cam path.
+As depicted in Fig. \ref{fig:gripper_photo}, The spring is conceived employing a repeated S-shape; at the end of the printing phase, the spring has a shorter length than the distance to the slider.
+After printing, the spring is connected to the slider by extending it, thus applying a slight pre-load in the mechanism that aids its operation.
