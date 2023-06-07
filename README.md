@@ -14,7 +14,7 @@ The PLG mode of operation is shown in the figure below:
 4. the grasped object can now be safely manipulated and moved; 
 5. at last, an additional push is needed to release the part. 
 
-![Sequence](/Images/grasping_seq.png){height="50%"}
+![Sequence](/Images/grasping_seq.png)
 
 Since the actuation of the gripper is obtained by moving it (e.g. with a robotic manipulator), the PLG is entirely passive and does not require additional power. This type of solution is not commonly employed in practice, possibly because of its low adaptability. However, industrial pick-and-place applications do not generally require a high degree of flexibility and adaptability, rendering grippers such as the PLG suitable for deployment in these contexts.
 Furthermore, the gripper presented in this work also exhibits the interesting features, namely: 
