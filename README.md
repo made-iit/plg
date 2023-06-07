@@ -33,3 +33,25 @@ This design approach lends itself well to AM implementations and several example
 The PLG physical prototype is shown in the figure below, which also shows the indication and nomenclature of its main elements.
 
 ![Sequence](/Images/whole_gripper.png)
+
+### Linear guides, positive drive cam, spring
+
+The vertical motion of the platform is obtained with a linear guide. In particular, the platform is integrated with an extension that slides relatively to the chassis. The extension is joined with the slider.
+The sliding of the guides is possible thanks to the special geometry of the parts.
+In particular, the joints must be stable, with a gap as narrow as possible and achievable without supports.
+Fig. ~\ref{fig:guide_lineari} shows a representation of the cross-sectional views of the geometries used to construct linear guides.
+The gap width adopted in this work is 0.2[mm], namely the smallest value that allowed the free relative motion of the parts.
+The unsupported portions of the linear guides have been designed so as to lay at an angle of 45° to the build platform to enable support-free fabrication.
+
+A positive drive cam mechanism, integrated into the slider, controls the fingers position.
+The cam follower consists of a metal pin installed on the gripper after the printing phase.
+As the pin advances through its path, it reaches four principal positions, represented in the figure below, whose function can be described as follows:
+
+1. in the initial position, the fingers are open, and the pin is in the highest position;
+2. as the gripper pushes on the object to be grasped, the moving platform moves upward, thus moving the pin from the initial position to the lowest on the right;
+3. as the load is released, the pin moves to the position corresponding to the stable closing of the fingers;
+4. a further movement of the platform releases the pin, thus moving it to the low cam position on the left where the fingers are unlocked.
+
+![Cam path](/Images/cam_path.png)
+
+Finally, the elasticity in the mechanism brings the pin back to the initial position where the fingers are completely open.
