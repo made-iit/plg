@@ -21,7 +21,7 @@ Furthermore, the gripper presented in this work also exhibits the interesting fe
 
 * It is made via AM, thus allowing, fast development iterations and greater design freedom if compared to traditional processes Commercial grippers (e.g. the ones by Festo, Schunk, or BTM) are generally made with metallic materials; in addition, the actuation of a commercial device often requires the integration of on-board complex systems or electronics or pneumatic lines. On the contrary, the PLG is manufactured with polymeric materials and does not require on-board drive systems.
 This aspect translates into a lower gripper weight.
-* Conventionally designed devices are made of several parts assembled together; instead, the gripper presented in this work is monolithic \cite{lussenburg2021design}, thus requiring no assembly operations.
+* Conventionally designed devices are made of several parts assembled together; instead, the gripper presented in this work is monolithic, thus requiring no assembly operations.
 These mechanisms are peculiar because they can be immediately employed once manufactured which translates into time/cost savings.
 Since there is no need to precisely mate parts, fabrication processes with looser tolerances (therefore more affordable) can be adopted.
 Finally, as no components (e.g. fasteners, bearings, etc.) need to be integrated,  monolithic systems often outperform their traditional counterparts in terms of weight.
@@ -29,3 +29,7 @@ Finally, as no components (e.g. fasteners, bearings, etc.) need to be integrated
 In contrast to conventional kinematic pairs, compliant joints display a greater degree of predictability and durability owing to their immunity to wear, despite generally allowing lower ranges of motion.
 Compliant joints are also not affected by stick-slip friction thus tend to behave more predictably.
 This design approach lends itself well to AM implementations and several examples can be found in the literature.
+
+The PLG physical prototype is shown in the figure below, which also shows the indication and nomenclature of its main elements.
+
+![Sequence](/Images/whole_gripper.png)
