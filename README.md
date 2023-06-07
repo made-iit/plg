@@ -32,7 +32,7 @@ This design approach lends itself well to AM implementations and several example
 
 The PLG physical prototype is shown in the figure below, which also shows the indication and nomenclature of its main elements.
 
-![Sequence](/Images/whole_gripper.png)
+![Sequence](/Images/whole_gripper.png | width=200)
 
 ### Linear guides, positive drive cam, spring
 
@@ -42,7 +42,6 @@ In particular, the joints must be stable, with a gap as narrow as possible and a
 Fig. ~\ref{fig:guide_lineari} shows a representation of the cross-sectional views of the geometries used to construct linear guides.
 The gap width adopted in this work is 0.2[mm], namely the smallest value that allowed the free relative motion of the parts.
 The unsupported portions of the linear guides have been designed so as to lay at an angle of 45° to the build platform to enable support-free fabrication.
-
 A positive drive cam mechanism, integrated into the slider, controls the fingers position.
 The cam follower consists of a metal pin installed on the gripper after the printing phase.
 As the pin advances through its path, it reaches four principal positions, represented in the figure below, whose function can be described as follows:
