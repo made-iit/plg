@@ -7,6 +7,7 @@ Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
     <source src="media/demo_pick_and_place.mp4" type="video/mp4">
     <source src="media/demo_pick_and_place.mp4" type="video/ogg">
 </video>
+
 ### Links
 
 ##### [Source files](https://github.com/made-iit/plg/tree/main/hardware) - [Preprint]() - [Paper]() - [Bibtex]()
