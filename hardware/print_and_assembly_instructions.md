@@ -24,3 +24,10 @@ Next, a pin must be inserted in the hole of the flexible hinge to make the cam p
     <em>The figure shows where to put the pin.</em>
 </p>
 
+The final step is to activate the spring pre-tensioning system. The free extremity of the spring must be moved to his special seat, as shown in the following figure.
+
+<p align="center">
+  <img alt="spring" src="/media/push-latch_spring.PNG" width="750">
+  <br>
+    <em>The figure shows how to activate the pre-tensioning system.</em>
+</p>
