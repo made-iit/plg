@@ -4,7 +4,7 @@ Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
 
 ### Links
 
-##### [Source files](https://github.com/made-iit/plg/tree/main/hardware) - [Preprint]() - [Paper](https://ieeexplore.ieee.org/document/10145474) - [Bibtex]()
+##### [Source files](https://github.com/made-iit/plg/tree/main/hardware) - [Preprint]() - [Paper](https://ieeexplore.ieee.org/document/10145474) - [Bibtex](https://github.com/made-iit/plg/tree/main/media/bibtex.bib)
 
 
 [TODO: fix links]
