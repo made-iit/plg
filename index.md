@@ -2,7 +2,12 @@
 
 Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
 
+<video controls width="250">
 
+    <source src="/media/demo_pick_and_place.mp4" type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
 
 ### Links
 
