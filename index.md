@@ -7,7 +7,7 @@ Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
     <source src="media/demo_pick_and_place.mp4" type="mp4" />
 </video>
 
-![](media/demo_pick_and_place.mp4)
+![](/media/demo_pick_and_place.mp4)
 
 ### Links
 
