@@ -1,3 +1,8 @@
+# Necessary premise
+
+We developed the PLG by adopting Fused Filament Fabrication (FFF) technology. Furthermore, the MarkForged® Onyx has been adopted as material. The functionality of the gripper depends on the material and the technology adopted. Changing the material and the process without modifying the design could lead to bad results. 
+By adopting a nylon-based material, acceptable results could be obtained.
+
 # Printing phase
 
 Inside the selected slicer (in this case, the proprietary MarkForged slicer has been adopted), the gripper must be positioned as shown in the figure below.
