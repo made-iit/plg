@@ -31,3 +31,5 @@ The final step is to activate the spring pre-tensioning system. The free extremi
   <br>
     <em>The figure shows how to activate the pre-tensioning system.</em>
 </p>
+
+At this point, the PLG is ready to be implemented.
