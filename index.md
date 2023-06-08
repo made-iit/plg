@@ -5,7 +5,7 @@ Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
 
 <p align="center">
     <video width=750 controls>
-        <source src="media/demo_pick_and_place.mp4" type="video/mp4">
+        <source src="/media/demo_pick_and_place.mp4" type="video/mp4">
     </video>
 </p>
 
