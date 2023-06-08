@@ -6,7 +6,7 @@ Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
 
 ### Links
 
-##### [Source files](https://github.com/made-iit/plg) - [Preprint]() - [Paper]() - [Bibtex]()
+##### [Source files](https://github.com/made-iit/plg/hardware) - [Preprint]() - [Paper]() - [Bibtex]()
 
 
 [TODO: fix links]
