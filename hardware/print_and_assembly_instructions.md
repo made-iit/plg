@@ -16,6 +16,8 @@ Once printed, necessary supports need to be removed. In the following figure, su
     <em>In violet, supports are represented.</em>
 </p>
 
+# Assembling phase
+
 Next, a pin must be inserted in the hole of the flexible hinge to make the cam path work (picture below). For the current design, a pin of 2 mm in diameter fits the hole (with 0.2 mm of interference). The minimum height of the pin to make contact with the cam path is 6 mm.
 
 <p align="center">
