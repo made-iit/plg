@@ -3,10 +3,17 @@
 Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
 
 
+<html>
+<body>
+
 <video width=750 controls>
     <source src="media/demo_pick_and_place.mp4" type="video/mp4">
     <source src="media/demo_pick_and_place.mp4" type="video/ogg">
 </video>
+
+</html>
+</body>
+
 
 ### Links
 
