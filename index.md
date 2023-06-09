@@ -8,7 +8,7 @@ https://github.com/made-iit/plg/assets/97095216/e6c8f8a9-cd02-4c1b-8667-2a099116
 
 ### Links
 
-##### [Source files](https://github.com/made-iit/plg/tree/main/hardware) - [Preprint](https://github.com/made-iit/plg/blob/main/media/preprint_push-latch.pdf) - [Paper](https://ieeexplore.ieee.org/document/10145474) - [Bibtex](https://github.com/made-iit/plg/tree/main/media/bibtex.bib)
+##### [Source files](https://github.com/made-iit/plg/tree/main/hardware) - [Preprint](https://github.com/made-iit/plg/raw/main/media/preprint_push-latch.pdf) - [Paper](https://ieeexplore.ieee.org/document/10145474) - [Bibtex](https://github.com/made-iit/plg/raw/main/media/bibtex.bib)
 
 ### Abstract
 
