@@ -2,6 +2,10 @@
 
 Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
 
+<p align="center">
+https://github.com/made-iit/plg/assets/97095216/e6c8f8a9-cd02-4c1b-8667-2a099116d2a8
+</p>
+
 
 ### Links
 
