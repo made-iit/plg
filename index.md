@@ -8,11 +8,6 @@ Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
 
 ![](media/demo_pick_and_place.mp4)
 
-<!-- <video width=100% controls src=".media/demo_pick_and_place.mp4"/> -->
-
-<!-- [![Watch the video](./media/plg_video_thumbnail.jpg)](.media/demo_pick_and_place.mp4) [<img src="./media/plg_video_thumbnail.jpg" width=100%/>](.media/demo_pick_and_place.mp4) -->
-
-
 ### Links
 
 ##### [Source files](https://github.com/made-iit/plg/tree/main/hardware) - [Preprint](https://github.com/made-iit/plg/raw/main/media/preprint_plg.pdf) - [Paper](https://ieeexplore.ieee.org/document/10145474) - [Bibtex](https://github.com/made-iit/plg/raw/main/media/bibtex.bib)
