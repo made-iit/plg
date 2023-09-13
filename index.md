@@ -19,6 +19,14 @@ test4
 
 https://raw.githubusercontent.com/made-iit/plg/main/media/demo_pick_and_place.mp4
 
+test5
+
+<video controls>
+  <source src="https://raw.githubusercontent.com/made-iit/plg/main/media/demo_pick_and_place.mp4" type="video/mp4">
+</video>
+
+test6 
+
 ### Links
 
 ##### [Source files](https://github.com/made-iit/plg/tree/main/hardware) - [Preprint](https://github.com/made-iit/plg/raw/main/media/preprint_plg.pdf) - [Paper](https://ieeexplore.ieee.org/document/10145474) - [Bibtex](https://github.com/made-iit/plg/raw/main/media/bibtex.bib)
