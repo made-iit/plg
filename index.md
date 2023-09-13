@@ -8,7 +8,7 @@ title: Design and Validation of a Push-Latch Gripper Made in Additive Manufactur
 
 Emilio Ottonello, Mario Baggetta, Giovanni Berselli, and Alberto Parmiggiani
 
-<video width=100% src="demo_pick_and_place.mp4" controls title="PLG"></video>
+<video width=100% src=".media/demo_pick_and_place.mp4" controls title="PLG"></video>
 
 ### Links
 
